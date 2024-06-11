@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(to right ,rgb(244, 239, 239) , pink);
+}
+.smart-login{
+
+    /* background-color: rgba(202, 106, 234, 0.521); */
+    background-color: rgba(255, 136, 251, 0.521);
+    /* background-color: rgba(244, 74, 150, 0.521); */
+
+}
+h1{
+    color: rgb(47, 37, 51);
+}
+input {
+    width: 90% !important;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.btn {
+    width: 90%;
+    box-shadow: 0 0 10px rgb(210, 33, 254);
+    background-color: rgba(245, 232, 248, 0.911) !important;
+    background-color: #e7e7e7 !important;
+}
+
+/*****welcome****/
+.welcome {
+    width: 60%;
+    height: 40%;
+    background-color: rgb(234, 171, 232);
+}
+.sma {
+    width: 100px !important;
+}
+.pig {
+    font-size: 80px;
+}
+span {
+    color: indigo;
+}
